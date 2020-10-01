@@ -11,17 +11,17 @@ So if you run a theatre then 'The Sound Of Music' is a _production_ and the show
 
 This section describes how to install the plugin and get it working.
 
-### Installation
+### Installation Process
 
 1. Go to _Plugins_ → _Add new_.
 1. Search for 'Theater'.
 1. Look for the _Theater for WordPress_ plugin and click on _Install now_.
 1. Wait for the next screen to load and click on _Activate Plugin_.
 
-### Add events
+### Add Events
 
 
-Add your first event:
+Process to add your first event:
 
 1. Go to _Theater_ → _Productions_ → _Add new_.
 1. Enter a title and description for your production.
@@ -32,7 +32,7 @@ Add your first event:
 1. Add a featured image (if your theme supports it).
 1. Click on _Publish_.
 
-### Show your events
+### Listing your events
 
 You can show your upcoming events on a page.
 
